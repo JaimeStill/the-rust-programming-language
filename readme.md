@@ -56,3 +56,19 @@ This is usually done by running one of the following (note the leading DOT):
 . "$HOME/.cargo/env"            # For sh/bash/zsh/ash/dash/pdksh
 source "$HOME/.cargo/env.fish"  # For fish
 ```
+
+## Rustup Commands
+
+```bash
+# open local docs
+rustup doc
+
+# open local rust book
+rustup doc --book
+
+# update
+rustup update
+
+# uninstall
+rustup self uninstall
+```
