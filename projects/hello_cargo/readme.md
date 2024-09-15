@@ -59,6 +59,9 @@ If you started a project that doesn't use Cargo, you can covert it to a project 
 ### Cargo Commands
 
 ```bash
+# creates a new project
+cargo new hello_cargo
+
 # build the project
 # outputs to /target/debug/<project>
 cargo build
