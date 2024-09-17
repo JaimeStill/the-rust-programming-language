@@ -2,6 +2,9 @@
 
 Studies from the official rust book.
 
+* [**Notes**](./notes/)
+* [**Projects**](./projects/)
+
 ## Installation
 
 ```bash
