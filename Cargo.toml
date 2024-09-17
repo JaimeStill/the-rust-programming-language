@@ -1,7 +1,7 @@
 [workspace]
 resolver="2"
 
-members = [
+members = [ "projects/data_types",
     "projects/hello_cargo",
     "projects/hello_world",
     "projects/variables"
