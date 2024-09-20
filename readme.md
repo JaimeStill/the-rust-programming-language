@@ -3,7 +3,13 @@
 Studies from the official rust book.
 
 * [**Notes**](./notes/)
+  * [Data Types](./notes/data-types.md)
+  * [Comments](./notes/comments.md)
 * [**Projects**](./projects/)
+  * [Hello World](./projects/hello_world/)
+  * [Hello Cargo](./projects/hello_cargo/)
+  * [Variables](./projects/variables/)
+  * [Functions](./projects/functions/)
 
 ## Installation
 
