@@ -10,6 +10,7 @@ Studies from the official rust book.
   * [Hello Cargo](./projects/hello_cargo/)
   * [Variables](./projects/variables/)
   * [Functions](./projects/functions/)
+  * [Control Flow](./projects/control_flow/)
 
 ## Installation
 

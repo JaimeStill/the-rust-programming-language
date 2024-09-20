@@ -1,7 +1,7 @@
 [workspace]
 resolver="2"
 
-members = [ "projects/functions",
+members = [ "projects/control_flow", "projects/functions",
     "projects/hello_cargo",
     "projects/hello_world",
     "projects/variables"
