@@ -340,3 +340,7 @@ fn calculate_length(s: String) -> (String, usize) {
 ```
 
 but this is too much ceremony and a lot of work for a concept that should be common. Luckily, Rust has a feature for using a value without transferring ownership, called *references*.
+
+## References and Borrowing
+
+## The Slice Type
