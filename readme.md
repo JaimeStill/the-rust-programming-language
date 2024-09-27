@@ -11,6 +11,7 @@ Studies from the official rust book.
   * [Variables](./projects/variables/)
   * [Functions](./projects/functions/)
   * [Control Flow](./projects/control_flow/)
+  * [Ownership](./projects/ownership/)
 * [**Exercises**](./exercises/)
   * [Guessing Game](./exercises/guessing_game/)
 

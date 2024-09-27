@@ -5,3 +5,4 @@
 * [**`variables`**](./variables/)
 * [**`functions`**](./functions/)
 * [**`control_flow`**](./control_flow/)
+* [**`ownership`**](./ownership/)
